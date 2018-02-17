@@ -7,5 +7,5 @@
 </p>
 <p>
    Feel free to ask me new features, send me bugs and suggest improvements! <br />
-   &copy;2017 Bryan Pedini.
+   &copy;2017-2018 Bryan Pedini.
 </p>
